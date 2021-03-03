@@ -5,6 +5,7 @@ export default class GioHang extends Component {
         return (
             <div>
                 console.log(em gi oi);
+                console.log(co giang tinh);
             </div>
         )
     }
