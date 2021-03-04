@@ -12,6 +12,7 @@ export default class GioHang extends Component {
                 var y = 4;
                 var z = 456;
                 var m = helo-xinchao;
+                var n = 21321321
                 </div>
         )
     }
