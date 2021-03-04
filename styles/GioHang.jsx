@@ -11,7 +11,7 @@ export default class GioHang extends Component {
                 var x = 123;
                 var y = 4;
                 var z = 456;
-                var m = helo;
+                var m = helo-helo;
                 </div>
         )
     }
