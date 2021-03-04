@@ -10,7 +10,7 @@ export default class GioHang extends Component {
                 console.log(ng thu 4);
                 var x = 4;
                 var y = 4;
-                var z = 55;
+                var z = 555;
                 </div>
         )
     }
